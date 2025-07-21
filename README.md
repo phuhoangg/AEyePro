@@ -69,4 +69,11 @@ AEyePro/
 
 ## Đóng góp & phát triển
 
-- Mọi ý kiến đóng góp, báo lỗi hoặc đề xuất tính năng mới vui lòng gửi qua Github hoặc liên hệ nhóm phát triển. 
+- Để báo lỗi hoặc đề xuất cải tiến, tạo [issue](https://github.com/phuhoangg/AEyePro/issues) trên GitHub
+- Để đóng góp code, submit [pull request](https://github.com/phuhoangg/AEyePro/pulls) với detailed description.
+
+## License
+
+Dự án được cấp phép theo [MIT License](https://opensource.org/licenses/MIT). Xem chi tiết trong file [LICENSE](LICENSE).
+
+---
