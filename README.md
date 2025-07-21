@@ -1,8 +1,8 @@
-# AEyeApp
+# AEyePro
 
 ## Giới thiệu
 
-**AEyeApp** là ứng dụng hỗ trợ theo dõi sức khỏe mắt, tư thế và trạng thái làm việc của người dùng máy tính, tích hợp AI để tư vấn, cảnh báo và tổng hợp dữ liệu sức khỏe cá nhân. Ứng dụng sử dụng camera để nhận diện chớp mắt, phát hiện buồn ngủ, phân tích tư thế, đồng thời cung cấp dashboard thống kê và trợ lý AI trả lời các câu hỏi liên quan đến sức khỏe/làm việc.
+**AEyePro** là ứng dụng hỗ trợ theo dõi sức khỏe mắt, tư thế và trạng thái làm việc của người dùng máy tính, tích hợp AI để tư vấn, cảnh báo và tổng hợp dữ liệu sức khỏe cá nhân. Ứng dụng sử dụng camera để nhận diện chớp mắt, phát hiện buồn ngủ, phân tích tư thế, đồng thời cung cấp dashboard thống kê và trợ lý AI trả lời các câu hỏi liên quan đến sức khỏe/làm việc.
 
 ## Tính năng nổi bật
 
@@ -25,7 +25,7 @@
 2. Mở terminal/cmd tại thư mục dự án, tạo môi trường và cài đặt phụ thuộc:
    ```bash
    conda env create -f environment.yml
-   conda activate AEyeApp
+   conda activate AEyePro
    ```
 3. Đảm bảo đã cắm webcam và cho phép truy cập camera.
 
@@ -45,7 +45,7 @@
 ## Cấu trúc thư mục
 
 ```
-AEyeApp/
+AEyePro/
 │
 ├── main.py                  # Điểm khởi động ứng dụng
 ├── environment.yml          # File khai báo môi trường & phụ thuộc
