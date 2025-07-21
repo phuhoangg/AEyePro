@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1996ebd-9136-4294-979c-63748d8e03c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AEyeApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/last_roberta_model.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/roberta_tokenizer/merges.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/roberta_tokenizer/special_tokens_map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/roberta_tokenizer/tokenizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/roberta_tokenizer/tokenizer_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/roberta_tokenizer/vocab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App/sentiment_model_components/training_metrics_with_f1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Visualization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sentiment_roberta_base.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sentiment_roberta_custom.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="30AXcFmfFvbuSWbTSHz1vaJe71W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1996ebd-9136-4294-979c-63748d8e03c2" name="Changes" comment="" />
+      <created>1753071430119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753071430119</updated>
+    </task>
+    <servers />
+  </component>
+</project>
