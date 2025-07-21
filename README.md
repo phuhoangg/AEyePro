@@ -27,7 +27,17 @@
    conda env create -f environment.yml
    conda activate AEyePro
    ```
-3. Đảm bảo đã cắm webcam và cho phép truy cập camera.
+3. **Tải file mô hình .gguf thủ công:**
+   - Do file mô hình AI (.gguf) có dung lượng lớn (~3GB) và Git LFS không cho phép tải lên kho mã nguồn, bạn cần tải file này thủ công.
+   - Tìm và tải file `Llama-3.2-3B-Instruct-Q8_0.gguf` từ nguồn uy tín (ví dụ: HuggingFace, repo chính thức của Llama hoặc do nhóm phát triển cung cấp).
+   - Sau khi tải xong, đặt file vào thư mục `models/` của dự án:
+     ```
+     AEyeApp/models/Llama-3.2-3B-Instruct-Q8_0.gguf
+     ```
+   - Nếu không có file này, tính năng AI Assistant sẽ không hoạt động.
+   - Có thể thay đổi mô hình khác nếu thiết bị cho phép và thay đổi đường dẫn trong các file ở thư mục `models`
+
+4. Đảm bảo đã cắm webcam và cho phép truy cập camera.
 
 ## Hướng dẫn sử dụng
 
