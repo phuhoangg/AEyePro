@@ -12,6 +12,9 @@
 - **Cảnh báo thông minh**: Nhắc nhở nghỉ ngơi, thay đổi tư thế, điều chỉnh ánh sáng, phòng tránh mỏi mắt và các vấn đề sức khỏe liên quan.
 - **Giao diện hiện đại**: Xây dựng bằng CustomTkinter, trực quan, dễ sử dụng, hỗ trợ chuyển đổi giữa các module (Giám sát, Tổng kết, AI Assistant).
 
+## Cấu trúc
+![pipeline](https://github.com/user-attachments/assets/4d3855c8-6d77-41fd-b229-dfddca515ff0)
+
 ## Yêu cầu hệ thống
 
 - Windows 10/11 (khuyến nghị)
