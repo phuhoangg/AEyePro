@@ -13,7 +13,7 @@
 - **Giao diện hiện đại**: Xây dựng bằng CustomTkinter, trực quan, dễ sử dụng, hỗ trợ chuyển đổi giữa các module (Giám sát, Tổng kết, AI Assistant).
 
 ## Cấu trúc
-![pipeline](https://github.com/user-attachments/assets/4d3855c8-6d77-41fd-b229-dfddca515ff0)
+<img src="https://github.com/user-attachments/assets/4d3855c8-6d77-41fd-b229-dfddca515ff0" alt="pipeline" width="60%"/>
 
 ## Yêu cầu hệ thống
 
